@@ -28,7 +28,7 @@ Hi, I'm Gian Franco Marcano!
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python, JavaScript, SQL
 🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: A new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: A new <b>job opportunity</b>, this is <a href="https://cv-marcano-gian.netlify.app/" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
